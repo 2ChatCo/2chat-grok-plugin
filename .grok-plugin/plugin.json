@@ -1,0 +1,15 @@
+{
+  "name": "2chat",
+  "version": "1.0.0",
+  "description": "2Chat business messaging and calls for Grok via the hosted 2Chat MCP server at mcp.2chat.io. Read and reply to your company's WhatsApp, WhatsApp Business API and SMS conversations, manage message templates and contacts, review phone calls, and manage virtual phone numbers. Sign in with your 2Chat account on first connect.",
+  "author": {
+    "name": "2Chat",
+    "email": "support@2chat.co",
+    "url": "https://2chat.co"
+  },
+  "homepage": "https://developers.2chat.co/docs/category/mcp",
+  "repository": "https://github.com/2ChatCo/2chat-grok-plugin",
+  "license": "MIT",
+  "keywords": ["2chat", "2chat whatsapp", "2chat sms", "2chat waba", "2chat mcp"],
+  "logo": "assets/logo.png"
+}

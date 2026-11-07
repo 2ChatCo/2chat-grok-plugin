@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "2chat": {
+      "type": "http",
+      "url": "https://mcp.2chat.io/mcp"
+    }
+  }
+}
